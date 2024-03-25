@@ -11,7 +11,7 @@ NFT Service is a RESTful API for managing non-fungible tokens (NFTs). It allows 
    
 2. Navigate to the project directory
    ```bash
-   cd nft-service
+   cd nft_service
 
 3. Create a config.json file in the project root and add the following environment variables with your database credentials:
  ```bash
