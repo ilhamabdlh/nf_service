@@ -7,7 +7,7 @@ NFT Service is a RESTful API for managing non-fungible tokens (NFTs). It allows 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/nft-service.git
+   git clone https://github.com/yourusername/nft_service.git
    
 2. Navigate to the project directory
    ```bash
