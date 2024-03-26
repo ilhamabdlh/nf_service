@@ -52,12 +52,12 @@ go build -o nft-service
 
 ## API Endpoints
 ```bash
-GET /items: Retrieve all items.
-GET /items/:id: Retrieve an item by ID.
-POST /items: Create a new item.
-PUT /items/:id: Update an existing item.
-DELETE /items/:id: Delete an item.
-POST /items/:id/purchase: Purchase an item.
+GET /api/items: Retrieve all items.
+GET /api/items/:id: Retrieve an item by ID.
+POST /api/items: Create a new item.
+PUT /api/items/:id: Update an existing item.
+DELETE /api/items/:id: Delete an item.
+POST /api/purchase/:id: Purchase an item.
 ```
 
 3. Testing API with this schema:
